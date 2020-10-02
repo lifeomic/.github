@@ -1,0 +1,13 @@
+{
+    "name": "Basic Code Scanning Workflow",
+    "description": "this workflow is the same as choosing to set up GitHub Code Scanning for a repo. Choose the language manually before committing.",
+    "iconName": "phc",
+    "categories": [
+	"C#",
+	"C++",
+	"Go",
+	"Java",
+	"JavaScript",
+	"Python"	
+    ]
+}
