@@ -1,0 +1,11 @@
+name: "LifeOmic CodeQL config"
+
+disable-default-queries: false
+
+paths-ignore:
+  - test
+  - tests
+  - '**/test'
+  - '**/tests'
+  - '**/*.test.js'
+  - '**/*.test.ts'
