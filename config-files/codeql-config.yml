@@ -9,3 +9,5 @@ paths-ignore:
   - '**/tests'
   - '**/*.test.js'
   - '**/*.test.ts'
+  - '**/*.test.tsx'
+  - '**/*.test.jsx'
