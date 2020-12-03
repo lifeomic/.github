@@ -1,7 +1,7 @@
 {
     "name": "Basic Code Scanning Workflow",
     "description": "This workflow will run GitHub Code Scanning for PRs to master. Please choose the proper language in the workflow file before committing.",
-    "iconName": "lifeomic",
+    "iconName": "phc",
     "categories": [
 	"C#",
 	"C++",
