@@ -11,3 +11,4 @@ paths-ignore:
   - '**/*.test.ts'
   - '**/*.test.tsx'
   - '**/*.test.jsx'
+  - 'deploy/**/*.tf'
