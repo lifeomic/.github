@@ -1,0 +1,13 @@
+{
+  "name": "General Use Code Scanning Workflow",
+  "description": "This workflow will run GitHub Code Scanning for PRs to master. This workflow will automatically detect scannable languages in your repository and run CodeQL queries against them.",
+  "iconName": "lifeomic",
+  "categories": [
+	  "C#",
+	  "C++",
+	  "Go",
+	  "Java",
+	  "JavaScript",
+	  "Python"	
+  ]
+}
